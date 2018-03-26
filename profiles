@@ -1,0 +1,4 @@
+if __name__ == '__main__':
+
+ api_secret = 'd3666fc6494839dd9d2848e6df32ddb2'
+ project_token = '92f4cda659dfd11dc4be8e4848ff94f9'
